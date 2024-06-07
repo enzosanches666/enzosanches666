@@ -1,4 +1,4 @@
-# 🌐 Blockchain & Bot Engineer | 💼 Crafting Decentralized Solutions
+# 🌐 Blockchain & Bot Engineer
 
 Hello World! 👋 I'm Enzo, a versatile Blockchain and Bot Engineer with 7 years of hands-on experience. I'm passionate about pushing the boundaries of technology to create innovative and decentralized solutions.
 
